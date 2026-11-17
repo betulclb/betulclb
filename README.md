@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Betül! 👋
 
-<!--
-**betulclb/betulclb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
 
-Here are some ideas to get you started:
+I'm a Software Engineering student interested in software development, problem-solving, and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Studying Software Engineering at Biruni University.
+- ⚡ Pursuing a minor in Electrical and Electronics Engineering.
+- 💻 Currently learning Java and Object-Oriented Programming.
+- 🐍 Exploring Python and improving my programming skills.
+- 🌱 Continuously learning and developing new projects.
+- 🎯 Interested in software development and technology.
+
+### 🛠️ Technologies I'm Learning
+- Java
+- Python
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+### 📌 Goals
+- Improve my programming skills.
+- Build real-world software projects.
+- Develop my portfolio.
+- Keep learning new technologies.
+
+### 🔗 Connect With Me
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/celebibetul/)
